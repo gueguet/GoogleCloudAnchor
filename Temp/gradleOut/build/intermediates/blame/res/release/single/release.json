@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_app_icon.png.flat",
+        "source": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\src\\main\\res\\mipmap-xxxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\5612c114f945fe6c771efcf6f69bc725\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\5612c114f945fe6c771efcf6f69bc725\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi_app_icon.png.flat",
+        "source": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\src\\main\\res\\mipmap-ldpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\5612c114f945fe6c771efcf6f69bc725\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\5612c114f945fe6c771efcf6f69bc725\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\5612c114f945fe6c771efcf6f69bc725\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\5612c114f945fe6c771efcf6f69bc725\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\5612c114f945fe6c771efcf6f69bc725\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\5612c114f945fe6c771efcf6f69bc725\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\5612c114f945fe6c771efcf6f69bc725\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\5612c114f945fe6c771efcf6f69bc725\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\raw_keep_arcore.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\46f9f924708f48b27945be20994b0208\\res\\raw\\keep_arcore.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\5612c114f945fe6c771efcf6f69bc725\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\5612c114f945fe6c771efcf6f69bc725\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\5612c114f945fe6c771efcf6f69bc725\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\5612c114f945fe6c771efcf6f69bc725\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\5612c114f945fe6c771efcf6f69bc725\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\5612c114f945fe6c771efcf6f69bc725\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\5612c114f945fe6c771efcf6f69bc725\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\color_common_google_signin_btn_tint.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\5612c114f945fe6c771efcf6f69bc725\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\5612c114f945fe6c771efcf6f69bc725\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\5612c114f945fe6c771efcf6f69bc725\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_app_icon.png.flat",
+        "source": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\src\\main\\res\\mipmap-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\layout___arcore_education.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\46f9f924708f48b27945be20994b0208\\res\\layout\\__arcore_education.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_app_icon.png.flat",
+        "source": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\src\\main\\res\\mipmap-xxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_app_icon.png.flat",
+        "source": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\src\\main\\res\\mipmap-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\5612c114f945fe6c771efcf6f69bc725\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\color_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\5612c114f945fe6c771efcf6f69bc725\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\5612c114f945fe6c771efcf6f69bc725\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\5612c114f945fe6c771efcf6f69bc725\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\5612c114f945fe6c771efcf6f69bc725\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\5612c114f945fe6c771efcf6f69bc725\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\gverdinpol\\DataCenterAR\\GoogleCloudAnchor\\Temp\\gradleOut\\build\\intermediates\\res\\merged\\release\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "C:\\Users\\gverdinpol\\.gradle\\caches\\transforms-2\\files-2.1\\19c724071b855e0334829e5adddc858c\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    }
+]

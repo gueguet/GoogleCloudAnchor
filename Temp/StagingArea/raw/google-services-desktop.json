@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "888484054616",
+    "firebase_url": "https://unityfirebase-d56e2.firebaseio.com",
+    "project_id": "unityfirebase-d56e2",
+    "storage_bucket": "unityfirebase-d56e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888484054616:android:976658885d0ebee3",
+        "android_client_info": {
+          "package_name": "com.gueguet57.CloudAnchor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888484054616-p1g02cjst7f2pla7kpps08ji5jfgvfb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6Q_4l9EA_iI-xHPsAUfeD9KfU63WIL9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888484054616-p1g02cjst7f2pla7kpps08ji5jfgvfb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
